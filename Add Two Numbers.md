@@ -42,8 +42,3 @@ class Solution {
 
 -  Time Complexity: O(m + n)
 - Space Complexity: O(m + n)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/add-two-numbers/discuss/306475)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
