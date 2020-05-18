@@ -63,8 +63,3 @@ class Solution {
 
 -  Time Complexity: O(m + n)
 - Space Complexity: O(m + n)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/add-two-numbers-ii/discuss/307030)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
