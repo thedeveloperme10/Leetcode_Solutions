@@ -1,7 +1,3 @@
-### Notes
-
-This problem is similar to [LeetCode #2 - Add Two Numbers](https://leetcode.com/problems/add-two-numbers). We will use the same algorithm used in the [solution to that problem](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/Add%20Two%20Numbers.md)
-
 ### Solution
 
 ```java
@@ -42,8 +38,3 @@ class Solution {
 
 -  Time Complexity: O(n + m)
 - Space Complexity: O(n + m)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/add-binary/discuss/458390)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
