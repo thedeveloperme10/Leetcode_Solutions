@@ -2,8 +2,6 @@
 
 This algorithm is called [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 
-![Sieve of Eratosthenes](images/sieveOfEratosthenes.gif)
-
 1. Create `boolean[] flags` where each `true` represents a prime number.
     - Initialize all numbers 2 and bigger as `true` for now, we will later cross off the non-prime numbers.
 1. Start at prime number 2 and cross off all multiples of 2. Repeat this step for the remaining prime numbers.
@@ -59,8 +57,3 @@ However, this analysis did not take into account that the inner loop is skipped 
 ### Space Complexity
 
 O(n) due to `boolean[] isPrime`
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/count-primes/discuss/452628)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
