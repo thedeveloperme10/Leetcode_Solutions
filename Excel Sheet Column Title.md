@@ -58,8 +58,3 @@ Let's use input `28` as an example.
 
 -  Time Complexity: O(log n)
 - Space Complexity: O(log n)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/excel-sheet-column-title/discuss/442164)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
