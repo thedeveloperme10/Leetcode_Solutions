@@ -38,8 +38,3 @@ class Solution {
 
 -  Time Complexity: O(nm) where m is the length of the `String` on the last iteration.
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/count-and-say/discuss/457513)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
