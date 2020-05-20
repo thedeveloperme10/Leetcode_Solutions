@@ -1,9 +1,3 @@
-### Notes
-
-We assume the `Id` column increases sequentially by 1 for every row. Otherwise, the below solution would not work properly.
-
-The below solution uses a [SELF JOIN](https://www.w3schools.com/sql/sql_join_self.asp).
-
 ### MySQL Solution
 
 ```sql
@@ -30,8 +24,3 @@ Expected: {"headers":["ConsecutiveNums"],"values":[[3]]}
 ```
 
 since for `[3,3]`, it's a match for `[1,3], [2,3], [3,3]` and also for `[2,3], [3,3], [4,3]`.  We end up matching on `[3,3]` twice, and the `l1.Num` on it incorrectly gives us `[3]` twice
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/consecutive-numbers/discuss/393862)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
