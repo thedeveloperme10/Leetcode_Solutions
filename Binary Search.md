@@ -29,8 +29,3 @@ Instead of calculating the middle value as `mid = (lo + hi) / 2`, do `mid = lo +
 
 - Time Complexity: O(log n)
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/binary-search/discuss/312466)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
