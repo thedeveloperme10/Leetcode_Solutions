@@ -98,12 +98,3 @@ class Solution {
 
 -  Time Complexity: O(n)
 - Space Complexity: O(1)
-
-# Alternate solutions
-
-A [1-array solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/240097) and [3-array solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/293789) also exist, but I still prefer my solutions above.
-
-# Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/441543)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
