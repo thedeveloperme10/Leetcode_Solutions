@@ -34,8 +34,3 @@ class H2O {
 
 -  Time Complexity: O(n) since string will have O(n) characters
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/building-h2o/discuss/392237)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
