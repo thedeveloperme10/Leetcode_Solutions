@@ -1,7 +1,3 @@
-### Algorithm
-
-[Video explanation](https://www.youtube.com/watch?time_continue=350&v=jaNZ83Q3QGc)
-
 ### Solution
 
 ```java
@@ -27,8 +23,3 @@ class Solution {
 
 - Time Complexity: O(amount * coins)
 - Space Complexity: O(amount)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/coin-change-2/discuss/304455)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
