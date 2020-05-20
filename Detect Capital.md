@@ -25,8 +25,3 @@ class Solution {
 
 -  Time Complexity: O(n)
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/detect-capital/discuss/460102)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
