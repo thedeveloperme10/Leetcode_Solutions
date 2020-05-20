@@ -1,7 +1,6 @@
 ### Algorithm
 
 - This problem is the same as [LeetCode #102 - Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) except that it wants the order of the lists reversed
-- Use the same [solution to that problem](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/Binary%20Tree%20Level%20Order%20Traversal.md), except insert lists into the solution in reverse order
 - Since we keep inserting into our list at position 0, we will use a `LinkedList` instead of an `ArrayList` for efficiency
 
 ### Provided Code
@@ -49,8 +48,3 @@ class Solution {
 
 -  Time Complexity: O(n)
 - Space Complexity: O(n)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/discuss/458607)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
