@@ -1,8 +1,3 @@
-### Notes
-
-- Algorithm is from Jeff Erickson's Algorithms.pdf, Section 19.5 Topological Sort.
-- The [general solution](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/Course%20Schedule%20II.md) returns the topological order. The solution below modifies the general solution to return just true/false.
-
 ### Solution
 
 ```java
@@ -97,8 +92,3 @@ class Solution {
 
 -  Time Complexity: O(n)
 - Space Complexity: O(n) due to recursion
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/course-schedule/discuss/304362)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
