@@ -1,7 +1,3 @@
-### Notes
-
-Algorithm is from Jeff Erickson's Algorithms.pdf, Section 19.5 Topological Sort
-
 ### Solution
 
 ```java
@@ -110,8 +106,3 @@ class Solution {
 
 -  Time Complexity: O(n)
 - Space Complexity: O(n) due to recursion
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/course-schedule-ii/discuss/304370)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
