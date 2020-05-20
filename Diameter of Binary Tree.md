@@ -1,7 +1,4 @@
 ### Algorithm
-
-Let's calculate the _depth_ of a tree for a root `TreeNode`. The [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) problem has a [solution](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/Maximum%20Depth%20of%20Binary%20Tree.md) that shows how to do this.
-
 If at a root node (without using parents), the diameter is the maximum of either:
 1. Max depth for Left Subtree + max depth for right subtree
 1. Diameter of Left subtree (without using this `TreeNode`)
@@ -40,17 +37,7 @@ class Solution {
     }
 }
 ```
-
-### Implementation Notes
-
-For `max`, we used a global instance variable. Alternatively, you can [wrap the variable up in an array](https://leetcode.com/problems/diameter-of-binary-tree/discuss/101130/C%2B%2B-Java-Clean-Code) (or class) so changing its value is preserved between function calls.
-
 ### Time/Space Complexity
 
 -  Time Complexity: O(n) since we must visit each node.
 - Space Complexity: O(log n) if balanced tree, O(n) otherwise. Space complexity is due to the recursion.
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/discuss/402015)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
