@@ -152,21 +152,3 @@ __What if elements of nums2 are stored on disk, and the memory is limited such t
 1. Divide `nums2` into `n` chunks of `1/n` size.
 1. Bring 1 chunk at a time of `nums2` into memory and see if it intersects with our `Map`. If the intersection we're generating gets too big to fit in memory, we can save our partial solution to disk and continue with our algorithm.
 
-### Follow-up 4 (Custom)
-
-__What if neither nums1 or nums2 can fully fit in memory?__
-
-1. Use [external sort](https://en.wikipedia.org/wiki/External_sorting) to sort `nums1`
-1. Use [external sort](https://en.wikipedia.org/wiki/External_sorting) to sort `nums2` (this step can theoretically be done in parallel to the above step)
-1. Use the 2-pointer solution above to create our solution
-    - Divide `nums1` into chunks that can fit in memory without consuming over ~10% of it
-    - Divide `nums2` into chunks that can fit in memory without consuming over ~10% of it
-    - The resulting ~80% can be used for our generated intersection
-    - Bring in 1 chunk of `nums1` and 1 chunk of `nums2` into memory together
-    - If the intersection we're generating gets too big to fit in memory, we can save our partial solution to disk and continue with our algorithm
-
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/intersection-of-two-arrays-ii/discuss/439955)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
