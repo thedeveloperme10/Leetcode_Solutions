@@ -1,6 +1,6 @@
 ### Algorithm
 
-This is similar to [LeetCode #141 - Linked List Cycle](https://leetcode.com/problems/linked-list-cycle). We will reuse the [algorithm from that problem](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/Linked%20List%20Cycle.md) to detect cycles.
+This is similar to [LeetCode #141 - Linked List Cycle](https://leetcode.com/problems/linked-list-cycle). We will reuse the [algorithm from that problem] to detect cycles.
 
 1. Create `slow`. It will move 1 step  at a time.
 1. Create `fast`. It will move 2 steps at a time.
@@ -55,8 +55,3 @@ class Solution {
 ### Space Complexity
 
 `O(1)`
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/happy-number/discuss/451908)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
