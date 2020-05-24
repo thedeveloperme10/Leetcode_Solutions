@@ -28,8 +28,3 @@ class Solution {
 
 -  Time Complexity: O(n)
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/fizz-buzz/discuss/430844)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
