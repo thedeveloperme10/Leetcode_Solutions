@@ -35,8 +35,3 @@ class Solution {
 
 -  Time Complexity: O(n + m)
 - Space Complexity: O(n + m)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/intersection-of-two-arrays/discuss/432767)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
