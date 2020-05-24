@@ -1,6 +1,6 @@
 ### Algorithm
 
-- Since we're asked for a range, we can use [binary search](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/Binary%20Search.md) 2 times.
+- Since we're asked for a range, we can use [binary search] 2 times.
 - Create 2 variations of binary search: 1 for the left endpoint of the range, and 1 for the right endpoint.
 - Optimization: once we found the left endpoint, we don't need to search the entire array for the right endpoint. We will use the left endpoint as a lower bound to `findLast()`
 
@@ -110,7 +110,7 @@ Loop ends. Index 3 is returned.
 ### Implementation Details
 
 - Having 2 separate functions for binary search results in more code, but makes the code easier to follow.
-- The differences between the above functions and [binary search](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/Binary%20Search.md) are
+- The differences between the above functions and [binary search] are
     1. When `A[mid] == target`, instead of returning mid, we either do `hi = mid` to bias left, or `lo = mid` to bias right
     1. We use `mid = (lo + hi) / 2` to bias left and `mid = (lo + hi) / 2 + 1` to bias right
         - This is useful for 2-element arrays
@@ -121,8 +121,3 @@ Loop ends. Index 3 is returned.
 
 -  Time Complexity: `O(log n)`
 - Space Complexity: `O(1)`
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/discuss/440965)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
