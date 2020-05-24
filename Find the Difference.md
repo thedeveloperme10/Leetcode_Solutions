@@ -23,8 +23,3 @@ class Solution {
 
 -  Time Complexity: O(s + t)
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/find-the-difference/discuss/460093)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
