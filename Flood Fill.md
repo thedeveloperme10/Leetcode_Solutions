@@ -35,8 +35,3 @@ class Solution {
 
 -  Time Complexity: O(rows * cols)
 - Space Complexity: O(rows * cols) due to recursion
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/flood-fill/discuss/312633)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
