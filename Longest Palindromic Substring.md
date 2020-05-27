@@ -1,9 +1,3 @@
-
-### Algorithm
-
-[Video explanation](https://www.youtube.com/watch?v=nbTSfrEfo6M) - This is a difficult algorithm.
-
-
 ### Solution
 
 ```java
@@ -70,14 +64,3 @@ class Solution {
 
 -  Time Complexity: O(n) - but difficult to prove/explain. `i` in the outer for loop moves forward `n` times. The `while` loop does an amortized `O(1)` amount of work.
 - Space Complexity: O(n)
-
-
-### References
-
-- [Code derived from here](https://algs4.cs.princeton.edu/53substring/Manacher.java.html)
-
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/longest-palindromic-substring/discuss/304553)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
