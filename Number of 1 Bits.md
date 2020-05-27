@@ -28,8 +28,3 @@ public class Solution {
 
 -  Time Complexity: O(1) assuming `int n` is always capped at 32 bits
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/number-of-1-bits/discuss/451746)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
