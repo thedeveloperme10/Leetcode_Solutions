@@ -55,8 +55,3 @@ class Solution {
 
 -  Time Complexity: O(k)
 - Space Complexity: O(k)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/pascals-triangle-ii/discuss/458235)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
