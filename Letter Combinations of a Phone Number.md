@@ -57,14 +57,3 @@ There will be 3<sup>M</sup> * 4<sup>N</sup> solutions, and each one will take O(
 
 -  Time Complexity: O((M+ N) * 3<sup>M</sup> * 4<sup>N</sup>)
 - Space Complexity: O((M+ N) * 3<sup>M</sup> * 4<sup>N</sup>)
-
-### Similar BackTracking Problems
-
-- [Permutations](https://leetcode.com/problems/permutations) and [Permutations II](https://leetcode.com/problems/permutations-ii)
-- [Subsets](https://leetcode.com/problems/subsets) and [Subsets II](https://leetcode.com/problems/subsets-ii)
-- [N-Queens](https://leetcode.com/problems/n-queens)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/313425)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
