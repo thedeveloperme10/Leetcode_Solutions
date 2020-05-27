@@ -12,8 +12,3 @@ BEGIN
   );
 END
 ```
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/nth-highest-salary/discuss/393481)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
