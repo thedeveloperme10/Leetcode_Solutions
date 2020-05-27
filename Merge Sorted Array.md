@@ -30,8 +30,3 @@ class Solution {
 
 -  Time Complexity: O(n)
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/merge-sorted-array/discuss/431201)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
