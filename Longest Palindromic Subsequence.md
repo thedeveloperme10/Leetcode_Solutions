@@ -153,9 +153,3 @@ public int longestPalindromeSubseq(String str) {
 
 -  Time Complexity: O(n<sup>2</sup>)
 - Space Complexity: O(n)
-
-
-# Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/longest-palindromic-subsequence/discuss/304451)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
