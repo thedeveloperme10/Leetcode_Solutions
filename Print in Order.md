@@ -1,9 +1,4 @@
 # Solution 1 - Semaphore
-
-Use a Semaphore. Here is a good explanation of [Semaphores](https://www.geeksforgeeks.org/semaphore-in-java/) (read their explanation, skip their code).
-
-"Semaphore is a bowl of marbles. If you need a marble, and there are none, you wait. You wait until there is one marble and then you take it. If you release(), you will add one marble to the bowl (from thin air). If you release(100), you will add 100 marbles to the bowl (from thin air)." - from [this post](https://leetcode.com/problems/print-in-order/discuss/332890/Java-Basic-semaphore-solution-8ms-36MB)
-
 ### Code
 
 ```java
@@ -68,9 +63,3 @@ class Foo {
 
 -  Time Complexity: O(1)
 - Space Complexity: O(1)
-
-
-# Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/print-in-order/discuss/355969)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
