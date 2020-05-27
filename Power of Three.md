@@ -89,9 +89,3 @@ class Solution {
   - if number of bits in `int n` is capped at 32: `O(1)`
   - if number of bits is allowed to grow: `O(log n)` due to the % operator
 - Space Complexity: `O(1)`
-
-
-# Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/power-of-three/discuss/448777)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
