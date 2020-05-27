@@ -61,9 +61,3 @@ This algorithm works for any "Power of X" question for X = 2, 3, 4,...
   - if number of bits in `int n` is capped at 32: `O(1)`
   - if number of bits is allowed to grow: `O(log n)` since base conversion is implemented as repeated division
 - Space Complexity: `O(1)`
-
-
-# Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/power-of-four/discuss/451488)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
