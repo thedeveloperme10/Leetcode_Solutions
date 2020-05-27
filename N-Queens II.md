@@ -1,6 +1,6 @@
 ### Notes
 
-This solution is a simplification of the [general N-Queens problem](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/N-Queens.md)
+This solution is a simplification of the [general N-Queens problem]
 
 ### Algorithm
 
@@ -105,8 +105,3 @@ Time Complexity: `O(n!)` due to the size of our recursion tree
 ### Space Complexity
 
 O(n), as that is the maximum depth of our recursion, and is also the size of each `HashSet` we use.
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/n-queens-ii/discuss/309039)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
