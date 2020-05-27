@@ -10,7 +10,6 @@ Keep track of `maxFreq` which is basically a pointer to the largest key in `stac
 
 `push()` and `pop()` are implemented by updating the above `freq`, `stacks`, and `maxFreq`.
 
-[Alternative explanation](https://leetcode.com/articles/maximum-frequency-stack/)
 
 ### Example
 
@@ -66,8 +65,3 @@ class FreqStack {
 
 -  Time Complexity: O(1) for push and pop
 - Space Complexity: O(1) for storage of each element. Can alternatively describe it as O(n) for storage of n elements.
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/maximum-frequency-stack/discuss/401504)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
