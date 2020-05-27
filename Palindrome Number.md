@@ -33,8 +33,3 @@ Max size of an `int` in Java is a constant 32 bits, so our `String` length will 
 ### Follow-up Problem: "Don't use a String"
 
 The `String` solution above is the most efficient and straightforward way to solve this problem. Skip the follow-up.
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/palindrome-number/discuss/458320)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
