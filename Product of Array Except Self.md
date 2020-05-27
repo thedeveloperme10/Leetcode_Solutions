@@ -80,9 +80,3 @@ Still confused? Check out [LeetCode's Solution 1](https://leetcode.com/problems/
 - Space Complexity: O(n)
 
 LeetCode's follow-up question to "solve it with constant space complexity" can be ignored since the output array takes up O(n) space. The output array should not be omitted from the space complexity analysis.
-
-
-# Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/product-of-array-except-self/discuss/446617)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
