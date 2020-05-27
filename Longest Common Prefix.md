@@ -37,8 +37,3 @@ class Solution {
 
 -  Time Complexity: O(s) where s is sum of all characters in all strings
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/longest-common-prefix/discuss/452063)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
