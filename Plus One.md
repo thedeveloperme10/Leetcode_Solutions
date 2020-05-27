@@ -28,8 +28,3 @@ class Solution {
 
 -  Time Complexity: O(n)
 - Space Complexity: O(n)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/plus-one/discuss/442068)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
