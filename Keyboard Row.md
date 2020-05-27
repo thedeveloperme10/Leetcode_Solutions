@@ -29,8 +29,3 @@ class Solution {
 
 -  Time Complexity: O(n) where n is the number of words
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/keyboard-row/discuss/459920)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
