@@ -18,7 +18,7 @@ The trees below both have a "minimum depth" of 2.
 
 ### Algorithm
 
-This problem is similar to [LeetCode #104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree). The [solution to that problem](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/Maximum%20Depth%20of%20Binary%20Tree.md) uses Depth-First Search (DFS). However, in the problem below we want to find `minDepth()`, so Breadth-First Search (BFS) will be a faster than DFS since it may not need to traverse every node. Implementing BFS on a tree is similar to doing a [level-order traversal on a tree](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/Binary%20Tree%20Level%20Order%20Traversal.md)!
+This problem is similar to [LeetCode #104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree). The [solution to that problem](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/Maximum%20Depth%20of%20Binary%20Tree.md) uses Depth-First Search (DFS). However, in the problem below we want to find `minDepth()`, so Breadth-First Search (BFS) will be a faster than DFS since it may not need to traverse every node. Implementing BFS on a tree is similar to doing a [level-order traversal on a tree]
 
 ### Provided Code
 
@@ -69,8 +69,3 @@ Let `d` be the "minimum depth" of the tree.
 - Space Complexity: O(2<sup>d</sup>)
 
 O(2<sup>d</sup>) is faster than O(n) when the tree has some branches that are shorter than others, and we don't visit every node. If tree is perfectly balanced, then the time/space complexity is O(n).
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree/discuss/458691)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
