@@ -119,14 +119,3 @@ Time Complexity: O(n<sup>2</sup> * n!)
 One way to represent our space complexity is O(n<sup>2</sup> * n!) (for the same reasoning as above),
 
 However, for an 8x8 board, there are only exactly 92 solutions.  It might make more sense to represent our space complexity as O(n<sup>2</sup> * d) where `d` is the number of solution boards. Keep in mind that `d` is not a constant, and also grows as `n` grows.
-
-### Similar BackTracking Problems
-
-- [Permutations](https://leetcode.com/problems/permutations) and [Permutations II](https://leetcode.com/problems/permutations-ii)
-- [Subsets](https://leetcode.com/problems/subsets) and [Subsets II](https://leetcode.com/problems/subsets-ii)
-- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/n-queens/discuss/308957)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
