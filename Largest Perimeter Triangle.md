@@ -25,8 +25,3 @@ class Solution {
 
 - Time Complexity: `O(n log n)` due to Arrays.sort()
 - Space Complexity: Depends on space complexity of `Arrays.sort()`, which can be as low as `O(1)`.
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/largest-perimeter-triangle/discuss/312118)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
