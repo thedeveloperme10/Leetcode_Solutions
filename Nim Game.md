@@ -29,8 +29,3 @@ class Solution {
 
 -  Time Complexity: O(1)
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/nim-game/discuss/433468)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
