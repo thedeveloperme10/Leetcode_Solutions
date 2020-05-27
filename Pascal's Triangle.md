@@ -41,8 +41,3 @@ class Solution {
 
 -  Time Complexity: O(n<sup>2</sup>)
 - Space Complexity: O(n<sup>2</sup>)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/pascals-triangle/discuss/432144)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
