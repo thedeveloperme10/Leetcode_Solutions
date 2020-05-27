@@ -71,11 +71,3 @@ class Solution {
 
 -  Time Complexity: O(n)
 - Space Complexity: O(1)
-
-Due to our jump value being [0, jump], we can solve this in O(1) space. However, this O(1) space solution is not possible in all variations to this problem, such as in [this problem](https://github.com/RodneyShag/Interview_solutions/blob/master/Questions/HackerRank/Java%201D%20Array.md).
-
-
-# Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/jump-game/discuss/323971)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
