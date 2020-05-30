@@ -1,7 +1,4 @@
 ### Algorithm + Example
-
-Solve [LeetCode #461 - Hamming Distance](https://leetcode.com/problems/hamming-distance) first before solving this problem. [Here is that problem's solution](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/Hamming%20Distance.md).
-
 If there are `n` integers in the array and `k` of them have a particular bit set and `n-k` do not, then that bit contributes `k * (n - k)` hamming distance to the total.
 
 ```
@@ -53,8 +50,3 @@ class Solution {
 
 -  Time Complexity: O(n)
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/total-hamming-distance/discuss/457802)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
