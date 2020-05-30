@@ -1,7 +1,3 @@
-### Notes
-
-Knowing how to code these 3 functions: [getBit()](https://github.com/RodneyShag/Interview_solutions/blob/master/Solutions/Cracking%20the%20Coding%20Interview/BitFunctions%20-%20getBit.md), [setBit()](https://github.com/RodneyShag/Interview_solutions/blob/master/Solutions/Cracking%20the%20Coding%20Interview/BitFunctions%20-%20setBit.md), and [clearBit()](https://github.com/RodneyShag/Interview_solutions/blob/master/Solutions/Cracking%20the%20Coding%20Interview/BitFunctions%20-%20clearBit.md) simplifies a lot of bit manipulation problems.
-
 ### Algorithm
 
 1. Create a new `int result`.
@@ -35,8 +31,3 @@ public class Solution {
 
 -  Time Complexity: O(1)
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/reverse-bits/discuss/451757)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
