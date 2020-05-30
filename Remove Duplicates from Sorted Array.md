@@ -30,8 +30,3 @@ class Solution {
 ### Similar Problems
 
 [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/433554)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
