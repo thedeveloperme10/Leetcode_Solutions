@@ -1,7 +1,4 @@
 ### Algorithm
-
-Here is a [detailed explanation](https://github.com/RodneyShag/Interview_solutions/blob/master/Solutions/Custom/Shortest%20Common%20SuperSequence.md) of how to find the __length__ of the Shortest Common SuperSequence.
-
 1. Calculate and store length of SCS in `int[][]` for each i, j
 1. Reconstruct the actual String representing SCS
 
@@ -68,12 +65,3 @@ class Solution {
 
 -  Time Complexity: O(m * n) due to our nested for loops
 - Space Complexity: O(m * n) due to our 2-D array
-
-Notice we only constructed 1 String in this solution, which enables us to have a fast LeetCode runtime (18ms).
-
-You may wonder if we could reduce the space complexity further like in [Solution 3 of detailed explanation](https://github.com/RodneyShag/Interview_solutions/blob/master/Solutions/Custom/Shortest%20Common%20SuperSequence.md). My comment on [this post](https://leetcode.com/problems/shortest-common-supersequence/discuss/312730) shows why it's not possible.
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/shortest-common-supersequence/discuss/358990)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
