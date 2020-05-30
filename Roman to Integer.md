@@ -46,8 +46,3 @@ class Solution {
 
 -  Time Complexity: O(n)
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/roman-to-integer/discuss/432830)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
