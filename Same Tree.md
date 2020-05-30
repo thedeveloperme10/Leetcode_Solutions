@@ -31,8 +31,3 @@ Let `m` be number of `TreeNodes` in `p`. Let `n` be number of `TreeNodes` in `q`
 
 -  Time Complexity: O(min(m + n))
 - Space Complexity: O(min(m + n))
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/same-tree/discuss/457479)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
