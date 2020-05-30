@@ -23,8 +23,3 @@ class Solution {
 
 -  Time Complexity: O(n)
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/reverse-string/discuss/401528)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
