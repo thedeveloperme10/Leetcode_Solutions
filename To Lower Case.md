@@ -32,8 +32,3 @@ class Solution {
 
 -  Time Complexity: O(s)
 - Space Complexity: O(s)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/to-lower-case/discuss/457545)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
