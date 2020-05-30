@@ -52,12 +52,3 @@ Now that we no longer have a carry, our algorithm finishes, and we return 'sum' 
 
 -  Time Complexity: O(1)
 - Space Complexity: O(1)
-
-### Additional Notes
-
-Using AND and XOR operators is literally how addition is done in circuits, using a [Half Adder](https://en.wikipedia.org/wiki/Adder_%28electronics%29#Half_adder)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/sum-of-two-integers/discuss/308122)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
