@@ -29,8 +29,3 @@ GROUP BY id
 - Therefore, for a specific `id`, we can only have 1 value for each of `Jan`, `Feb`, `Mar`, etc.
 - Since multiple rows in the input can have the same `id`, the `GROUP BY` needs an aggregate function (such as `MAX` or `SUM`) to combine the rows for an `id`. Since each `id` and `month` pair can only have 1 `revenue`, it doesn't matter whether we use `MAX` or `SUM` for combining rows
 - I use `MAX`. If the `month` has a revenue, it will use it, otherwise, the value will be `null`
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/reformat-department-table/discuss/393818)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
