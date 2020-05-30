@@ -1,7 +1,4 @@
 ### Algorithm
-
-We can use a modified version of [binary search](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/Binary%20Search.md).
-
 Since it is possible that we want to insert at the end of the array, instead of searching from `0` to `nums.length - 1`, we will search from `0` to `nums.length`.
 
 ### Solution
@@ -35,8 +32,3 @@ Instead of calculating the middle value as `mid = (lo + hi) / 2`, do `mid = lo +
 
 -  Time Complexity: O(log n)
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/search-insert-position/discuss/458339)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
