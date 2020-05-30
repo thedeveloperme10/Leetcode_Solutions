@@ -82,9 +82,3 @@ class Solution {
 
 - Time Complexity: O(n<sup>2</sup>)
 - Space Complexity: O(n)
-
-
-# Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/word-break/discuss/346842)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
