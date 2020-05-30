@@ -1,6 +1,6 @@
 ### Algorithm
 
-Use [Preorder traversal](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/Binary%20Tree%20Preorder%20Traversal.md) to convert each tree into a String.
+Use [Preorder traversal] to convert each tree into a String.
 
 Replace each `null` with an `X`. This is necessary to distinguish between trees such as
 
