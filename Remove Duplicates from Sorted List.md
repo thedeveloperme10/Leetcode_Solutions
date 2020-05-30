@@ -32,8 +32,3 @@ class Solution {
 
 -  Time Complexity: O(n)
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/discuss/458403)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
