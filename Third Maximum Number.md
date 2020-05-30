@@ -26,8 +26,3 @@ class Solution {
 
 -  Time Complexity: O(n) since `TreeSet` has a fixed size of 3.
 - Space Complexity: O(1)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/third-maximum-number/discuss/460676)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
