@@ -41,15 +41,3 @@ There are 2<sup>n</sup> subsets to generate, and each one takes `O(n)` time to c
 
 -  Time Complexity: O(n * 2<sup>n</sup>)
 - Space Complexity: O(n * 2<sup>n</sup>)
-
-### Similar BackTracking Problems
-
-- [Subsets II](https://leetcode.com/problems/subsets-ii)
-- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
-- [N-Queens](https://leetcode.com/problems/n-queens)
-- [Permutations](https://leetcode.com/problems/permutations) and [Permutations II](https://leetcode.com/problems/permutations-ii)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/subsets/discuss/313500)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
