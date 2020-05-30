@@ -12,7 +12,6 @@ We assume input `x` is non-negative (0 or more) as stated in the problem.
         - (m + 1)<sup>2</sup> = 16 which is greater than `x`
     - So sqrt(10) = 3 due to truncation of decimal digits.
 
-Use [binary search](https://github.com/RodneyShag/LeetCode_solutions/blob/master/Solutions/Binary%20Search.md) to find `m`
 
 ### Solution
 
@@ -74,9 +73,3 @@ class Solution {
 
 -  Time Complexity: O(log n)
 - Space Complexity: O(1)
-
-
-# Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/sqrtx/discuss/453059)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
