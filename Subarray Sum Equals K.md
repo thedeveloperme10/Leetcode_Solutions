@@ -32,8 +32,3 @@ class Solution {
 ### Similar Problems
 
 [Path Sum III](https://leetcode.com/problems/path-sum-iii)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/discuss/304459)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
