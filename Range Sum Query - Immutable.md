@@ -36,8 +36,3 @@ class NumArray {
 
 -  Time Complexity: O(n) to pre-compute. O(1) for `sumRange()` calls after precomputation.
 - Space Complexity: O(n)
-
-### Links
-
-- [Discuss on LeetCode](https://leetcode.com/problems/range-sum-query-immutable/discuss/489951)
-- [github.com/RodneyShag](https://github.com/RodneyShag)
